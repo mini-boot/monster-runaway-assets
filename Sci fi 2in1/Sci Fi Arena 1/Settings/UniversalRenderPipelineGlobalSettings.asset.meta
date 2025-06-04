@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d1f27e59767411a45882e4459c8ca539
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 269791
+  packageName: Sci Fi Arena Bundle 2in1 URP
+  packageVersion: 1.0
+  assetPath: Assets/Sci fi 2in1/Sci Fi Arena 1/Settings/UniversalRenderPipelineGlobalSettings.asset
+  uploadId: 625228

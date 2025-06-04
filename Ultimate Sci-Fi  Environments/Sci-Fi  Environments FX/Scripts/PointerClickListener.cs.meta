@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ebd5157890c4daa4985147846696aa73
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278985
+  packageName: Sci-Fi Environments FX
+  packageVersion: 1.0
+  assetPath: Assets/Ultimate Sci-Fi  Environments/Sci-Fi  Environments FX/Scripts/PointerClickListener.cs
+  uploadId: 657538

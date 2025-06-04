@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6560a915ef98420e9faacc1c7438823
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283147
+  packageName: Slime VFX - URP
+  packageVersion: 1.0.0
+  assetPath: Assets/AssetStore/Vefects/Slime VFX URP/Demo/Resources/PP/Vefects_Slime_VFX_Post_Processing.asset
+  uploadId: 660403

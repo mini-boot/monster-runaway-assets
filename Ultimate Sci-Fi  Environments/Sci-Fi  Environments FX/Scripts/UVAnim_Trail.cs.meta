@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d373fb3ebaa590249b36cce40787d30d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278985
+  packageName: Sci-Fi Environments FX
+  packageVersion: 1.0
+  assetPath: Assets/Ultimate Sci-Fi  Environments/Sci-Fi  Environments FX/Scripts/UVAnim_Trail.cs
+  uploadId: 657538
