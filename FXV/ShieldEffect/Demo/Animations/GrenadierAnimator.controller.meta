@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f11982277bfe3342b93167a08d4ada5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 273354
+  packageName: Energy Shield & Force Field Effect v2 with Hit FX and Activation Animation
+  packageVersion: 2.2.2
+  assetPath: Assets/AssetStore/FXV/ShieldEffect/Demo/Animations/GrenadierAnimator.controller
+  uploadId: 709003

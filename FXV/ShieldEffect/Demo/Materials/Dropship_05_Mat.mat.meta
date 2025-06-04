@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1c4cffe9877845349940f71100042f8f
+timeCreated: 1503332201
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 273354
+  packageName: Energy Shield & Force Field Effect v2 with Hit FX and Activation Animation
+  packageVersion: 2.2.2
+  assetPath: Assets/AssetStore/FXV/ShieldEffect/Demo/Materials/Dropship_05_Mat.mat
+  uploadId: 709003

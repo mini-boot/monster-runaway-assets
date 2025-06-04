@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2fc137c8ae572634a9cefbdf0cea7e31
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197825
+  packageName: Black mage spells
+  packageVersion: 1.3
+  assetPath: Assets/Hovl Studio/Black mage spells/Demo scene/Demo scene files/BlackMageController.controller
+  uploadId: 610791

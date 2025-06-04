@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fea6d98214cdf6a4dbf053c0070e54e1
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197825
+  packageName: Black mage spells
+  packageVersion: 1.3
+  assetPath: Assets/Hovl Studio/HSFiles/Shaders/ShockWave.shader
+  uploadId: 610791

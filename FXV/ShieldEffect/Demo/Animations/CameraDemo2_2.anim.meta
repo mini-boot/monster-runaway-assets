@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fe04f0987c9237a4889314f3c8140a4f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 273354
+  packageName: Energy Shield & Force Field Effect v2 with Hit FX and Activation Animation
+  packageVersion: 2.2.2
+  assetPath: Assets/AssetStore/FXV/ShieldEffect/Demo/Animations/CameraDemo2_2.anim
+  uploadId: 709003
