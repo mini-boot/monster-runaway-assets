@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 72f4f7a9b3672754ab2b9c09a6d9f380
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 291300
+  packageName: 'Shatter Stone: Stylized Gemstones'
+  packageVersion: 1.0
+  assetPath: Assets/NV3D/Shatter Stone/Stylized Gemstones/Script Graphs/SG_GemRefined.asset
+  uploadId: 680230
