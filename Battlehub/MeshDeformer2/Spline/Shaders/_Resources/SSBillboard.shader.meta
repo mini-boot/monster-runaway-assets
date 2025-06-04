@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4be5ab20a0397b047a667e25a83cfc21
+timeCreated: 1460918895
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/MeshDeformer2/Spline/Shaders/Resources/SSBillboard.shader
+  uploadId: 421554

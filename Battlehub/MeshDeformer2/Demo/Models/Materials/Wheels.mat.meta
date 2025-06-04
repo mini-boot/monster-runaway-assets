@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 61297725270632d4081411a7bbf3f2b8
+timeCreated: 1456923227
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/MeshDeformer2/Demo/Models/Materials/Wheels.mat
+  uploadId: 421554

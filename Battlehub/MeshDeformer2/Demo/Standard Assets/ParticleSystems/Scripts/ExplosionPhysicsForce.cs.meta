@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0ac1691131a8c844dafe8b6ace6a172a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/MeshDeformer2/Demo/Standard Assets/ParticleSystems/Scripts/ExplosionPhysicsForce.cs
+  uploadId: 421554

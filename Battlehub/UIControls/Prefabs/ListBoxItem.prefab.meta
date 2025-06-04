@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cdab80d5844bfba4283bfd85412234b3
+timeCreated: 1461610916
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/UIControls/Prefabs/ListBoxItem.prefab
+  uploadId: 421554

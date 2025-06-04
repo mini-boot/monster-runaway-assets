@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d9c83f34c8c26f64a9e2a7af4c3ed8c6
+timeCreated: 1456909990
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/MeshDeformer2/Demo/Models/Materials/Tree.mat
+  uploadId: 421554

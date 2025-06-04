@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c936effae12b93541a74fb601d9098ac
+timeCreated: 1456755231
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/MeshDeformer2/Demo/Materials/Rails.physicMaterial
+  uploadId: 421554

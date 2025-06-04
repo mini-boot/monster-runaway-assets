@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 908a866a1e9787647987e0324d2daa6b
+timeCreated: 1461777915
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/RTEditor/Scripts/MouseOrbit.cs
+  uploadId: 421554

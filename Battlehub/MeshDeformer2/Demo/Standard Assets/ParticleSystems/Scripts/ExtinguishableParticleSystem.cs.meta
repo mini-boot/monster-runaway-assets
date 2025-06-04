@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 13e3e45088e68834999c82ca6f025949
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/MeshDeformer2/Demo/Standard Assets/ParticleSystems/Scripts/ExtinguishableParticleSystem.cs
+  uploadId: 421554

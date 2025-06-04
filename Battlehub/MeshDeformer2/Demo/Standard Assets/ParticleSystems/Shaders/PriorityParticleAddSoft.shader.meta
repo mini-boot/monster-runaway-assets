@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 694eef9939f180440a9d0891272eddba
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/MeshDeformer2/Demo/Standard Assets/ParticleSystems/Shaders/PriorityParticleAddSoft.shader
+  uploadId: 421554

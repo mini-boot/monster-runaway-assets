@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: abfdbb13dff29f74ea9fa61d0a75ed4f
+timeCreated: 1456921278
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/MeshDeformer2/Demo/Models/Materials/Box3.mat
+  uploadId: 421554

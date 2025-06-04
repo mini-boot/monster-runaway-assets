@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 280714a58b8cb0a47bd9bf449ef82bcf
+timeCreated: 1461613008
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/RTEditor/Prefabs/EditorUI.prefab
+  uploadId: 421554

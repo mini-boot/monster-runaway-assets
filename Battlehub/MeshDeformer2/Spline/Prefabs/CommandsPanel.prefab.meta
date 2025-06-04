@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7f6e9c9300bf9ac4498c8f5e25118076
+timeCreated: 1461785824
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/MeshDeformer2/Spline/Prefabs/CommandsPanel.prefab
+  uploadId: 421554

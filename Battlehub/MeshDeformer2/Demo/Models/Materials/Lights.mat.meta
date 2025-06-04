@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8cad9102fc971b246b0779fe2a606327
+timeCreated: 1456923227
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/MeshDeformer2/Demo/Models/Materials/Lights.mat
+  uploadId: 421554

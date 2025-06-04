@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f333c80d4541be447b49c86a4f85694e
+timeCreated: 1456948079
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/MeshDeformer2/Demo/Prefabs/Rails.prefab
+  uploadId: 421554

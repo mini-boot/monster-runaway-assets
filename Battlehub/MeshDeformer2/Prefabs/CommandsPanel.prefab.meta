@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ee04dd7e12830b3479bed2c758d7cd4e
+timeCreated: 1461786167
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/MeshDeformer2/Prefabs/CommandsPanel.prefab
+  uploadId: 421554

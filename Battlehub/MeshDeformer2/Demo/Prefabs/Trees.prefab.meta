@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3bc6d3454f628e0489ad6e4e59652222
+timeCreated: 1548838114
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/MeshDeformer2/Demo/Prefabs/Trees.prefab
+  uploadId: 421554

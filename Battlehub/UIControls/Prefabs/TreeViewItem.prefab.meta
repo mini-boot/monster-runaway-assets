@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 04a07bdf90ff09d48b5e70cb9c905f35
+timeCreated: 1463494441
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/UIControls/Prefabs/TreeViewItem.prefab
+  uploadId: 421554

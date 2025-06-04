@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c1c8952c36ba0a34f884af3987221672
+timeCreated: 1465472046
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/RTHandles/Shaders/Resources/Grid.shader
+  uploadId: 421554

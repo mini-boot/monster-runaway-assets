@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6fca8dffd6c0a6243a72f53298070652
+timeCreated: 1461153780
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/RTHandles/Shaders/Resources/VertexColor.shader
+  uploadId: 421554

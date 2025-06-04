@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 746f8c1955efaeb45934e02adbf1bde6
+timeCreated: 1456923227
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/MeshDeformer2/Demo/Models/Materials/TrainBody.mat
+  uploadId: 421554

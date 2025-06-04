@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cdb1683a7b26097458e5e1d02f855a29
+timeCreated: 1517744469
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/MeshDeformer2/Spline/Scripts/SplineReparam/Demo/SplineReparam.unity
+  uploadId: 421554

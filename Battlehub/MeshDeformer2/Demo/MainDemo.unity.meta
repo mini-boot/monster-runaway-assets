@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 241b83545e42d3242a0dbb37badaf922
+timeCreated: 1454942423
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/MeshDeformer2/Demo/MainDemo.unity
+  uploadId: 421554

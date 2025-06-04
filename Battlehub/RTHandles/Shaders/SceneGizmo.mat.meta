@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b43def87c7524fc489dc02a1bbf70f31
+timeCreated: 1464263614
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/RTHandles/Shaders/SceneGizmo.mat
+  uploadId: 421554

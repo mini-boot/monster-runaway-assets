@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 88e4027dc18a88444b6a4890a9b4adaf
+timeCreated: 1548837810
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/MeshDeformer2/Demo/Models/LotOfCubes2.asset
+  uploadId: 421554

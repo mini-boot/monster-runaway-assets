@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 40f8dfa8ec545e7418e539c7120f6378
+timeCreated: 1455571842
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/MeshDeformer2/Scripts/Editor/MeshDeformerMenu.cs
+  uploadId: 421554

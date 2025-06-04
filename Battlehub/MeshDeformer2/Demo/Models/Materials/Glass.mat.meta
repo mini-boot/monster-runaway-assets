@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aa623a18ba7508c48a90506507d9ccd6
+timeCreated: 1456512891
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/MeshDeformer2/Demo/Models/Materials/Glass.mat
+  uploadId: 421554

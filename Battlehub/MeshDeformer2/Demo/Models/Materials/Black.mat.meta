@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d8866d7564b9c8e449e0bd55c662e6dc
+timeCreated: 1456577889
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/MeshDeformer2/Demo/Models/Materials/Black.mat
+  uploadId: 421554

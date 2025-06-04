@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b9928fd0134038942a72a74ea302ab63
+timeCreated: 1461136070
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41155
+  packageName: Mesh Deformer
+  packageVersion: 2.07
+  assetPath: Assets/Battlehub/RTHandles/Scripts/GLRenderer.cs
+  uploadId: 421554
