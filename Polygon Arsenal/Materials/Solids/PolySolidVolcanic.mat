@@ -111,6 +111,7 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
+    - _XRMotionVectorsPass: 1
     - _ZWrite: 1
     m_Colors:
     - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
@@ -131,4 +132,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 9
+  version: 10
